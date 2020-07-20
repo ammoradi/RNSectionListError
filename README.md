@@ -1,5 +1,5 @@
 ## Description
-### I'm trying to use [Official SectionList Example](https://reactnative.dev/docs/sectionlist) but it getting me the error on both RN 0.62.0 and 0.63.1:
+### I'm trying to use [Official SectionList Example](https://reactnative.dev/docs/sectionlist) but I'm getting me the error on both RN 0.62.0 and 0.63.1:
 
 ![Screenshot from 2020-07-20 23-26-45](https://user-images.githubusercontent.com/9418556/87980556-0fd48c80-cae9-11ea-8a6e-8dcda5d38e16.png)
 ![Screenshot from 2020-07-21 00-15-38](https://user-images.githubusercontent.com/9418556/87980658-32ff3c00-cae9-11ea-87d1-1c88e6948012.png)
